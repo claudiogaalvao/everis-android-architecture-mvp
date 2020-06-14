@@ -20,7 +20,7 @@ Antes de iniciar o refactore, rode o aplicativo e verifique como ele funciona, a
 
 - Nesta etapa vamos iniciar e destruir a presenter, este é um passo importante da arquitetura pois a presenter precisa conhecer a View que ela irá orquestrar, e também precisa ser avisada quando esta view for destruida, realize os TODO's número 7 e 8.
 
--Chegamos na etapa final da refatoração, nesta etapa vamos remover os metodos que estão acoplados na nossa View e delegar a responsabilidade para a camada presenter, realize todos os TODOS's restantes. 
+- Chegamos na etapa final da refatoração, nesta etapa vamos remover os metodos que estão acoplados na nossa View e delegar a responsabilidade para a camada presenter, realize todos os TODOS's restantes. 
 
 
 
