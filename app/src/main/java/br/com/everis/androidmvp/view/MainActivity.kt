@@ -1,10 +1,11 @@
-package br.com.everis.androidmvp
+package br.com.everis.androidmvp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.everis.androidmvp.R
 
 
-//TODO: 1 - Mover esta classe para o package view
+//DONE: 1 - Mover esta classe para o package view
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
